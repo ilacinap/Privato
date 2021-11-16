@@ -1,4 +1,5 @@
 per chiarire le idee ho tre tutorial simpatici da suggerire
+
 Freecodecamp è un sito 100% gratis con un mare di cose sulla programmazione, esercizi inclusi, basta inserire una mail e il codice di verifica per entrare
 
 * https://www.freecodecamp.org/news/c-string-how-to-declare-strings-in-the-c-programming-language/
