@@ -11,5 +11,6 @@ spiegano cosa diamine è un init, cosa è include, a che diamine serve # e altre
 
 altro link utile che ho trovato, in italiano:
 * http://www.lia.deis.unibo.it/Courses/ElemB0405-ELE/lezioni/04_argc-argv.pdf
+* questo è per capire meglio la compilazione: https://homes.di.unimi.it/ferrari/Programmazione2016_17/Prog2016_17_01_lab_double.pdf
 
 magari provo a schiaffare appunti qui i ngiro in un altro file md
